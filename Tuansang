@@ -13,8 +13,8 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 local Window =
     Fluent:CreateWindow(
     {
-        Title = "PhatCrystal Hub[Free]",
-        SubTitle = "Make by @phat_crystal",
+        Title = "TuanSang Hub[Free]",
+        SubTitle = "Make by @sangdepzai",
         TabWidth = 160,
         Size = UDim2.fromOffset(530, 350),
         Acrylic = false,
