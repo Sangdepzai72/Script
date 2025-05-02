@@ -73,7 +73,7 @@ do
     b.Position = UDim2.new(0.103761353, 0, 0.214939028, 0)
     b.Size = UDim2.new(0, 50, 0, 50)
     b.Draggable = true
-    b.Image = "rbxassetid://106595114856025"
+    b.Image = "rbxassetid://100766370556844"
     c.Parent = b
     local function d()
         local e = Instance.new("LocalScript", b)
@@ -4282,10 +4282,10 @@ do
 
     Tabs.Sever:AddButton(
         {
-            Title = "Sever Discord PhatCrystal",
+            Title = "Sever Discord Sangdepzai",
             Description = "Click to copy the Discord link",
             Callback = function()
-                setclipboard("https://discord.gg/hyGgHBudcs")
+                setclipboard("https://discord.gg/2NTKptcg")
                 print("Discord link copied!")
             end
         }
